@@ -1,0 +1,7 @@
+{
+  "name": "FlowHire - Recruitment Process & Analytics Engine",
+  "description": "An enterprise recruitment workflow and real-time analytics platform built on the Level-1 DFD architecture with multi-role authentication, AI skill parsing, candidate matching, and data store management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
